@@ -19,7 +19,7 @@ DICTIONARY = [ # dictionary is defined here
     ["ikiag", "i am going to keep it a gurt"], ["tuff", "tough (impressive, cool)"],
     ["wivs", "[what (are) you doing OR what (would) you do] is very smart"],
     ["yg", "yo gurt"], ["tg", "this (shit) gurt"], ["cbvd", "could be very dangerous"],
-    ["itwh", "i know this shit was happening"], ["gurt", "gurt"], ["gurting", "gurting"],
+    ["itwh", "i know this shit was happening"], ["gurt", "gurt"], ["gurting", "gurting"], ["mb", "my bad"], ["alr", "alrigth"],
     ["cro", "bro"], ["jorking it", "masturbating"], ["syfm", "shut your fucking mouth"],
     ["sym", "shut your mouth"], ["lmao", "laughing my ass off"], ["lmfao", "laughing my fucking ass off"],
     ["mf", "motherfucker(s)"], ["mfs", "motherfucker(s)"], ["mfers", "motherfucker(s)"],
