@@ -1,4 +1,7 @@
 # brainrot-translator
+## WARNING
+information in this python script does not represent me. all of the trasnlated words are used in online communication of certain groups. this is a program to make it easier to understand the context in these online communications!
+
 ## what is this?
 brainrot translator is a translator for translating brainrot terms.
 
